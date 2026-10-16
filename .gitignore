@@ -1,0 +1,6 @@
+﻿env/
+__pycache__/
+*.pyc
+demo_prueba.mp4
+videos/*
+!videos/.gitkeep
